@@ -28,6 +28,7 @@ About US:
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/5a7cb2173c87167e9aa88ac4b0f5301e6eef975c/icons/file_type_light_nx.svg" alt="nx" width="55" height="55"/>
       
       
 </p>
