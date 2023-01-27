@@ -34,4 +34,4 @@ About US:
 
 
 ## 📫 How to reach us :
-You can reach us at the email in my github profile.
+You can reach us at this [email](mailto:iaf.goldenroute@gmail.com).
