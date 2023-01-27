@@ -24,6 +24,9 @@ About US:
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springio" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
       
       
 </p>
