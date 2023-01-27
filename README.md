@@ -6,9 +6,10 @@
 
 💻 We use a variety of programming languages on a daily basis, including:
 
-TypeScript (.ts)
-Java (.java)
-Python (.py)
+* TypeScript (.ts)
+* Java (.java)
+* Python (.py)
+
 🛠 Our technology stack includes a diverse set of tools and technologies that we use to deliver high-quality, efficient, and effective software to the IAF.
 
 
