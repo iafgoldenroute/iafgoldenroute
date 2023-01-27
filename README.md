@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
 About US:
-- 🏦 We are a Software Developers working for the Israeli Air Force (IAF) in Golden Route Team (צוות נתיב הזהב)
+- 🏦 We are software developers serving for the Israeli Air Force (IAF) in the Golden Route Team (צוות נתיב הזהב).
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 We using on a daily basis  **.ts**, **.java**, **.py**
 
