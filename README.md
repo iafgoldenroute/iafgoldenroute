@@ -1,13 +1,15 @@
 ## [קישור לחידה](https://docs.google.com/forms/d/e/1FAIpQLSfGyZkFMw3XRcnzGSoJE32kVIYGmpxePZ-GWIphasro4znO1w/viewform)
-### Hi there 👋
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+## About US:
 
-About US:
-- 🏦 We are software developers serving for the Israeli Air Force (IAF) in the Golden Route Team (צוות נתיב הזהב).
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 We using on a daily basis  **.ts**, **.java**, **.py**
+🏦 We are software developers serving for the Israeli Air Force (IAF) in the Golden Route Team (צוות נתיב הזהב).
 
+💻 We use a variety of programming languages on a daily basis, including:
+
+TypeScript (.ts)
+Java (.java)
+Python (.py)
+🛠 Our technology stack includes a diverse set of tools and technologies that we use to deliver high-quality, efficient, and effective software to the IAF.
 
 
 ## 🛠 Tech Stack
