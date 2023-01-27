@@ -33,4 +33,4 @@ About US:
 
 
 ## 📫 How to reach us :
-You can reach me at the email in my github profile.
+You can reach us at the email in my github profile.
