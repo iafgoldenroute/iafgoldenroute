@@ -1,4 +1,4 @@
-## [קישור לחידה](https://docs.google.com/forms/d/e/1FAIpQLSfGyZkFMw3XRcnzGSoJE32kVIYGmpxePZ-GWIphasro4znO1w/viewform)
+## [קישור לחידה החדשה!](https://docs.google.com/forms/d/e/1FAIpQLSecBx55utCe0GlwXVO5uyOZ4ufemZSzlyJwcrtNstflWQ3pBQ/viewform)
 
 ## About US:
 
